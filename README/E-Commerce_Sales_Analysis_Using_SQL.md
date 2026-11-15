@@ -9,13 +9,13 @@ The main goal of this project was to analyse revenue, profit, customers, product
 Dataset Information
 
 The project contains four CSV files:
-
+'''
 Table       | Records
 Customers   | 250
 Products    | 60
 Orders      | 1,000
 Order Items | 1,971
-
+'''
 Tools Used
 
 - MySQL Workbench
@@ -69,13 +69,13 @@ Business Recommendations
 - Investigate cancelled and returned orders.
 
 Project Structure
-
+'''
 Ecommerce_Sales_SQL_Project :-
 ── Dataset
 ── SQL_Queries
 ── Analysis
 ── README
-
+'''
 Conclusion
 
 Through this project, I practised SQL queries on a relational e-commerce dataset and learned how to turn raw data into useful business insights.
