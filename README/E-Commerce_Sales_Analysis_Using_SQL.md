@@ -10,11 +10,11 @@ Dataset Information
 
 The project contains four CSV files:
 
-Table| Records
-Customers| 250
-Products| 60
-Orders| 1,000
-Order Items| 1,971
+Table       | Records
+Customers   | 250
+Products    | 60
+Orders      | 1,000
+Order Items | 1,971
 
 Tools Used
 
@@ -70,12 +70,11 @@ Business Recommendations
 
 Project Structure
 
-Ecommerce_Sales_SQL_Project/
-│
-├── Dataset/
-├── SQL_Queries/
-├── Analysis/
-└── README/
+Ecommerce_Sales_SQL_Project :-
+── Dataset
+── SQL_Queries
+── Analysis
+── README
 
 Conclusion
 
