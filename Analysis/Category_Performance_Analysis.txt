@@ -1,0 +1,36 @@
+Category Performance Analysis
+
+Introduction :-
+
+In this analysis, I compared the performance of different product categories using SQL. My main aim was to find out which categories generated the highest revenue and profit and which ones needed improvement.
+
+Category-wise Performance :-
+
+Category        | Revenue        | Profit
+Furniture       | ₹77,192,149.18 | ₹23,321,995.20
+Office Supplies | ₹63,003,824.24 | ₹19,283,502.51
+Electronics     | ₹50,152,961.45 | -₹5,999,376.06
+Accessories     | ₹39,569,556.75 | ₹13,180,080.38
+
+What I Found :-
+
+After comparing the results, I noticed a few important things:
+
+- Furniture performed best in terms of both revenue and profit.
+- Office Supplies was the second-highest category in total profit.
+- Electronics was the only category that showed a loss.
+- Accessories had the highest profit margin at 33.31%.
+- Electronics had a negative profit margin of -11.96%.
+
+My Suggestions :-
+
+Based on these results, I would suggest:
+
+1. Continue focusing on Furniture because it is performing well.
+2. Check the pricing and costs of Electronics products to understand the reason for the loss.
+3. Look for ways to increase Accessories sales.
+4. Keep checking profit margins to understand changes in performance.
+
+Conclusion :-
+
+From this analysis, I found that Furniture is the strongest category in terms of revenue and profit. Electronics needs more attention because it is making a loss. This analysis helped me understand how SQL can be used to compare product categories and find areas that need improvement.

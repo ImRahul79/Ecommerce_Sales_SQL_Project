@@ -1,0 +1,39 @@
+Monthly Sales Trend Analysis
+
+Introduction :-
+
+In this analysis, I studied the monthly sales performance of the business using SQL. I grouped the orders by month and compared the number of orders, revenue and profit.
+
+Key Findings :-
+
+After running the query, I got 12 monthly records. The main findings were:
+
+- August 2025 had the highest revenue and profit.
+- July 2025 had the lowest revenue.
+- There were differences in sales performance from month to month.
+
+What I Understood :-
+
+The results show that sales were not the same every month. August was the strongest month, while July had the lowest revenue.
+
+This comparison helped me understand how monthly sales data can show changes in business performance.
+
+My Suggestions :-
+
+1. Study what made August a better month for sales.
+2. Find out why revenue was lower in July.
+3. Compare monthly revenue and profit regularly.
+4. Plan suitable offers or promotions during months with lower sales.
+
+Conclusion :-
+
+Monthly sales analysis is useful for understanding business performance over time. By using SQL, I was able to identify the best and weakest months and get a better idea of the sales pattern.
+
+Tools and SQL Concepts Used :-
+
+- MySQL Workbench
+- GROUP BY
+- SUM()
+- COUNT()
+- DATE_FORMAT()
+- ORDER BY

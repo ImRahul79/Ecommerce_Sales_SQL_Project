@@ -1,0 +1,61 @@
+product_id,product_name,category,unit_price,unit_cost
+501,Electronics Product 1,Electronics,15171.47,27848.72
+502,Electronics Product 2,Electronics,28365.18,35040.18
+503,Electronics Product 3,Electronics,6357.11,58464.97
+504,Electronics Product 4,Electronics,78898.93,41904.79
+505,Electronics Product 5,Electronics,42957.29,18606.18
+506,Electronics Product 6,Electronics,65131.53,41099.63
+507,Electronics Product 7,Electronics,13134.96,54660.08
+508,Electronics Product 8,Electronics,65829.6,56990.5
+509,Electronics Product 9,Electronics,58098.7,36824.24
+510,Electronics Product 10,Electronics,33546.71,55967.07
+511,Electronics Product 11,Electronics,69305.2,2760.86
+512,Electronics Product 12,Electronics,2255.4,22618.98
+513,Electronics Product 13,Electronics,64872.68,59237.2
+514,Electronics Product 14,Electronics,12160.79,35668.14
+515,Electronics Product 15,Electronics,30564.13,58196.37
+516,Furniture Product 1,Furniture,67393.2,50307.81
+517,Furniture Product 2,Furniture,37575.15,24918.43
+518,Furniture Product 3,Furniture,21981.55,3429.71
+519,Furniture Product 4,Furniture,69198.08,48783.42
+520,Furniture Product 5,Furniture,79977.46,59798.38
+521,Furniture Product 6,Furniture,44501.22,46150.8
+522,Furniture Product 7,Furniture,75589.54,50986.36
+523,Furniture Product 8,Furniture,19900.75,27060.12
+524,Furniture Product 9,Furniture,10463.38,57245.36
+525,Furniture Product 10,Furniture,48553.04,13757.14
+526,Furniture Product 11,Furniture,53785.3,37106.79
+527,Furniture Product 12,Furniture,28749.29,6857.78
+528,Furniture Product 13,Furniture,53775.12,31242.45
+529,Furniture Product 14,Furniture,61819.62,31233.8
+530,Furniture Product 15,Furniture,68196.69,33136.81
+531,Office Supplies Product 1,Office Supplies,44940.9,52605.38
+532,Office Supplies Product 2,Office Supplies,32368.11,8084.21
+533,Office Supplies Product 3,Office Supplies,2448.3,45320.48
+534,Office Supplies Product 4,Office Supplies,49681.72,42259.58
+535,Office Supplies Product 5,Office Supplies,17155.19,8225.47
+536,Office Supplies Product 6,Office Supplies,1311.39,21067.72
+537,Office Supplies Product 7,Office Supplies,47254.93,23565.03
+538,Office Supplies Product 8,Office Supplies,35082.37,54254.31
+539,Office Supplies Product 9,Office Supplies,27958.2,30863.67
+540,Office Supplies Product 10,Office Supplies,62724.69,23822.74
+541,Office Supplies Product 11,Office Supplies,49823.62,51748.7
+542,Office Supplies Product 12,Office Supplies,75969.22,8867.06
+543,Office Supplies Product 13,Office Supplies,74138.02,29552.37
+544,Office Supplies Product 14,Office Supplies,20770.81,27575.19
+545,Office Supplies Product 15,Office Supplies,78405.6,29582.45
+546,Accessories Product 1,Accessories,26400.82,38022.38
+547,Accessories Product 2,Accessories,19325.63,4598.01
+548,Accessories Product 3,Accessories,10441.05,7726.35
+549,Accessories Product 4,Accessories,12279.43,8372.69
+550,Accessories Product 5,Accessories,51323.85,10953.71
+551,Accessories Product 6,Accessories,27751.53,53812.47
+552,Accessories Product 7,Accessories,37995.84,40070.09
+553,Accessories Product 8,Accessories,13909.74,11577.73
+554,Accessories Product 9,Accessories,3413.36,10177.66
+555,Accessories Product 10,Accessories,22395.44,10661.78
+556,Accessories Product 11,Accessories,7232.9,7282.12
+557,Accessories Product 12,Accessories,36943.18,12419.71
+558,Accessories Product 13,Accessories,29236.95,30229.87
+559,Accessories Product 14,Accessories,55278.03,2406.76
+560,Accessories Product 15,Accessories,63982.92,37692.63
